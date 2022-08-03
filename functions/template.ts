@@ -7,7 +7,7 @@ export function getTemplate({ withError }: { withError: boolean }): string {
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <title>Password Protected Site</title>
-      <meta name="description" content="This site is password protected.">
+      <meta name="description" content="MNC Admin Access Only">
       <link rel="shortcut icon" href="https://picocss.com/favicon.ico">
 
       <link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
