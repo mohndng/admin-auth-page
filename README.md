@@ -6,4 +6,4 @@ Try visiting my webpage <a href="https://www.mncostatus.com">MNC Admin Login</a>
 Courtesy: *https://developers.cloudflare.com/pages/platform/functions*
 
 ## Error
-❌️ It only prompt onced. Probably  because from its stored cache or just my phone either.
+❌️ It only prompt onced. Probably because from its stored cache, auth cookie time limit or just my phone either.
