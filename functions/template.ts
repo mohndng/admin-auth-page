@@ -31,7 +31,7 @@ export function getTemplate({ withError }: { withError: boolean }): string {
           color: white;
           padding: 0.5em 1em;
         }
-        h1 {
+        h1, h2, p {
             text-align: center;
         }
         h2 { color: #2D2424; }
