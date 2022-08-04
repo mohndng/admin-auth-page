@@ -38,6 +38,7 @@ export function getTemplate({ withError }: { withError: boolean }): string {
         
         article {
             margin: 1.5rem;
+            border-radius: .5rem;
         }
       </style>
     </head>
