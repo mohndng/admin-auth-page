@@ -31,7 +31,9 @@ export function getTemplate({ withError }: { withError: boolean }): string {
           color: white;
           padding: 0.5em 1em;
         }
-
+        h1 {
+            text-ali
+        }
         h2 { color: #2D2424; }
         
         article {
