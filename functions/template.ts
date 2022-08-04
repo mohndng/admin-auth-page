@@ -22,7 +22,7 @@ export function getTemplate({ withError }: { withError: boolean }): string {
           max-width: 600px;
         }
         body {
-            background-color: #B85C38;
+            background-color: #E0C097;
         }
 
         .error {
@@ -32,7 +32,7 @@ export function getTemplate({ withError }: { withError: boolean }): string {
           padding: 0.5em 1em;
         }
 
-        h2 { color: var(--color-h2); }
+        h2 { color: #2D2424; }
       </style>
     </head>
 
