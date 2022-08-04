@@ -32,7 +32,7 @@ export function getTemplate({ withError }: { withError: boolean }): string {
           padding: 0.5em 1em;
         }
         h1 {
-            text-ali
+            text-align: center;
         }
         h2 { color: #2D2424; }
         
