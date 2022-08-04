@@ -21,6 +21,9 @@ export function getTemplate({ withError }: { withError: boolean }): string {
           padding: 1rem 0;
           max-width: 600px;
         }
+        body {
+            background-color: #
+        }
 
         .error {
           background: red;
