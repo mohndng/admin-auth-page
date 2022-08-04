@@ -40,7 +40,7 @@ export function getTemplate({ withError }: { withError: boolean }): string {
             <h1>Password</h1>
             <h2>Please enter your password for this site.</h2>
           </hgroup>
-          ${withError ? `<p class="error">You're not MNC, please try again.</p>` : ''}
+          ${withError ? `<p class="error">You're not Raymund, please try again.</p>` : ''}
           <form method="post" action="/cfp_login">
             <input type="password" name="password" placeholder="Password" aria-label="Password" autocomplete="current-password" required autofocus>
             <button type="submit" class="contrast">Login</button>
