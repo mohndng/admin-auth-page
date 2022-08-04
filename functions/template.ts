@@ -23,9 +23,9 @@ export function getTemplate({ withError }: { withError: boolean }): string {
         }
 
         .error {
-          background: white;
+          background: red;
           border-radius: 10px;
-          color: var(--del-color);
+          color: white;
           padding: 0.5em 1em;
         }
 
