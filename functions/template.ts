@@ -19,7 +19,7 @@ export function getTemplate({ withError }: { withError: boolean }): string {
           justify-content: center;
           min-height: 100%;
           padding: 1rem 0;
-          width: auto;
+          width: 100%;
         }
         body {
             background-color: #E0C097;
