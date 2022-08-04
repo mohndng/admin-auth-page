@@ -6,7 +6,7 @@ export function getTemplate({ withError }: { withError: boolean }): string {
     <head>
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width, initial-scale=1">
-      <title>Password Protected Site</title>
+      <title>MNC Admin Access</title>
       <meta name="description" content="MNC Admin Access Only">
       <link rel="shortcut icon" href="https://picocss.com/favicon.ico">
 
