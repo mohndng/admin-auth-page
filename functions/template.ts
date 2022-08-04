@@ -17,7 +17,7 @@ export function getTemplate({ withError }: { withError: boolean }): string {
           display: flex;
           flex-direction: column;
           justify-content: center;
-          height: 100%;
+          height: auto;
           padding: 1rem 0;
           max-width: 600px;
         }
