@@ -6,7 +6,7 @@ export function getTemplate({ withError }: { withError: boolean }): string {
     <head>
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width, initial-scale=1">
-      <title>MNC Admin Access</title>
+      <title></title>
       <meta name="description" content="MNC Admin Access Only">
       <link rel="shortcut icon" href="https://picocss.com/favicon.ico">
 
@@ -17,7 +17,7 @@ export function getTemplate({ withError }: { withError: boolean }): string {
           display: flex;
           flex-direction: column;
           justify-content: center;
-          min-height: 100%;
+          height: 100%;
           padding: 1rem 0;
           max-width: 600px;
         }
