@@ -17,12 +17,12 @@ export function getTemplate({ withError }: { withError: boolean }): string {
           display: flex;
           flex-direction: column;
           justify-content: center;
-          height: auto;
+          min-height: auto;
           padding: 1rem 0;
           max-width: 600px;
         }
         body {
-            background-color: #E0C097;
+            background-color: #2D2424;
         }
 
         .error {
