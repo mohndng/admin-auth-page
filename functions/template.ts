@@ -19,7 +19,6 @@ export function getTemplate({ withError }: { withError: boolean }): string {
           justify-content: center;
           min-height: calc(100vh - 7rem);
           padding: 1rem 0;
-          margin: 2px;
           max-width: 600px;
         }
         html {
@@ -34,6 +33,10 @@ export function getTemplate({ withError }: { withError: boolean }): string {
         }
 
         h2 { color: #2D2424; }
+        
+        article {
+            
+        }
       </style>
     </head>
 
