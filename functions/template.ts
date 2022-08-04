@@ -35,7 +35,7 @@ export function getTemplate({ withError }: { withError: boolean }): string {
         h2 { color: #2D2424; }
         
         article {
-            
+            margin: 5px;
         }
       </style>
     </head>
