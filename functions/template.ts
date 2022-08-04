@@ -1,7 +1,7 @@
 export function getTemplate({ withError }: { withError: boolean }): string {
   return `
   <!doctype html>
-  <html lang="en" data-theme="dark">
+  <html lang="en" data-theme="light">
 
     <head>
       <meta charset="utf-8">
@@ -21,7 +21,7 @@ export function getTemplate({ withError }: { withError: boolean }): string {
           padding: 1rem 0;
           max-width: 600px;
         }
-        body {
+        html {
             background-color: #2D2424;
         }
 
